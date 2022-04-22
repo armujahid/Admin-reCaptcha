@@ -1,4 +1,4 @@
-Admin reCaptcha
+Admin reCaptcha [![Listed in Awesome YOURLS!](https://img.shields.io/badge/Awesome-YOURLS-C5A3BE)](https://github.com/YOURLS/awesome-yourls/)
 ====================
 
 Plugin for [YOURLS](http://yourls.org) `v1.7 (possibly earlier, not tested) adding reCaptcha to private admin page`. 
